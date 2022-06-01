@@ -1,0 +1,10 @@
+{
+    "pacman": "😋",
+    "enemy": "👻",
+    "wall": "  ",
+    "dot": "🔸",
+    "pill": "⚪️",
+    "lose": "❌",
+    "space": "  ",
+    "use_emoji": true
+}
