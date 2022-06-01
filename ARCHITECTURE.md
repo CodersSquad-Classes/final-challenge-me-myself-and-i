@@ -1,10 +1,10 @@
 # Pacman Architecture
-[Pacman video - youtube]()
+![Pacman video - youtube](www.apple.com)
 
 Pac-Man game were implemented using multithreaded programming using the GO language. You can run Ghost Enemy and Pac-Man separately, here you have the arquitecture of the game ilustratedin a uml diagram
 
 ## Diagram architecture
-(diagram.jpeg)
+![architecture](diagram.jpeg)
 
 ## Pacman:
 
