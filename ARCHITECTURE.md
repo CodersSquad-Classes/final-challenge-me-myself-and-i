@@ -116,7 +116,7 @@ Functions
 
 ```go
 {
-	//place yourself in the main directory were all files are saved and run de following comand:
+//place yourself in the main directory were all files are saved and run de following comand:
     go run pacman.go
 
     //to avoid errors open a big terminal window
@@ -124,7 +124,7 @@ Functions
 ```
 ### or use
 ```go
-{
+
 	make test
-}
+
 ```
